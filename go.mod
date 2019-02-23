@@ -1,1 +1,1 @@
-module github.com/zhaoneng/testmod
+module github.com/zhaoneng/testmod/v2
