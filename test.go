@@ -5,7 +5,6 @@ import (
     "fmt"
 )
 
-// Hi 返回一个欢迎语，其语言由 lang 指定
 func Hi(name, lang string) (string, error) {
     switch lang {
     case "en":
